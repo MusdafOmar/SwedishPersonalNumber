@@ -1,0 +1,11 @@
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\bin\Debug\net9.0\PersonalNumber.Core.deps.json
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\bin\Debug\net9.0\PersonalNumber.Core.dll
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\bin\Debug\net9.0\PersonalNumber.Core.pdb
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.AssemblyInfoInputs.cache
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.AssemblyInfo.cs
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.csproj.CoreCompileInputs.cache
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.dll
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\refint\PersonalNumber.Core.dll
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\PersonalNumber.Core.pdb
+C:\Users\musta\Documents\SwedishPersonalNumber\src\PersonalNumber.Core\obj\Debug\net9.0\ref\PersonalNumber.Core.dll
